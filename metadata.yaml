@@ -1,5 +1,8 @@
 _repo: Verses_55807
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55807-h/images/cover.jpg
 creator:
   author:
     agent_name: Wharton, Edith
@@ -14,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Edith_Wharton
     - http://fr.wikipedia.org/wiki/Edith_Wharton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55807#Verses
 gutenberg_issued: '2017-10-24'
 gutenberg_type: Text
 identifiers:
